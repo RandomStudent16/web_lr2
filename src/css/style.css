@@ -19,6 +19,7 @@ body {
 }
 
 .card {
+  cursor: pointer;
   width: 18rem;
   margin-bottom: 20px;
 }
@@ -26,7 +27,7 @@ body {
   color: red;
 }
 
-.crea {
+.crea, .modal-header {
   color: red;
 }
 
@@ -38,4 +39,8 @@ body {
 .toast .toast-header {
   background-color: red;
   color: white;
+}
+
+.btn-secondary {
+  background-color: yellow;
 }
