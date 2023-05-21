@@ -11,7 +11,7 @@ body {
 }
 
 .header .navbar-brand {
-  color: red;
+  color: #a52422;
 }
 .header img {
   height: 50px;
@@ -24,11 +24,11 @@ body {
   margin-bottom: 20px;
 }
 .card .card-title {
-  color: red;
+  color: #a52422;
 }
 
 .crea, .modal-header {
-  color: red;
+  color: #a52422;
 }
 
 .toast {
@@ -37,10 +37,11 @@ body {
   z-index: 5;
 }
 .toast .toast-header {
-  background-color: red;
+  background-color: #a52422;
   color: white;
 }
 
 .btn-secondary {
-  background-color: yellow;
+  background-color: #E6AF2E;
+  color: black;
 }
