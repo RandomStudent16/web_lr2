@@ -29,3 +29,13 @@ body {
 .crea {
   color: red;
 }
+
+.toast {
+  bottom: 20px;
+  right: 20px;
+  z-index: 5;
+}
+.toast .toast-header {
+  background-color: red;
+  color: white;
+}
