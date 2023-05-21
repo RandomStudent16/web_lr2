@@ -1,0 +1,48 @@
+body {
+  background-color: #fff;
+  margin: 0 auto;
+  font-family: Georgia, Times New Roman, Times, serif;
+  overflow-x: hidden;
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.header .navbar-brand {
+  color: #a52422;
+}
+
+.header img {
+  height: 50px;
+  width: 50px;
+}
+
+.card {
+  cursor: pointer;
+  width: 18rem;
+  margin-bottom: 20px;
+}
+
+.card .card-title, .crea, .modal-header {
+  color: #a52422;
+}
+
+.toast {
+  z-index: 5;
+  bottom: 20px;
+  right: 20px;
+}
+
+.toast .toast-header {
+  color: #fff;
+  background-color: #a52422;
+}
+
+.btn-secondary {
+  color: #000;
+  background-color: #e6af2e;
+}
+
+/*# sourceMappingURL=index.c92073ef.css.map */
